@@ -1,16 +1,14 @@
-# fonhansemproject
+# fonhansemsixtenowproject
 
-Le projet de Sem
+Le projet de Sem et Sixte 🎉
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Ce projet a été créé par **Imma05** et **SixteNow**, avant tout pour le fun.  
+C’est une application Flutter simple qui permet de **créer des candidats** et de **voter** pour eux.
 
-A few resources to get you started if this is your first Flutter project:
+L’idée est d’avoir une petite base amusante, et par la suite, on prévoit d’ajouter :
+- Des rôles d’**administrateurs**
+- Une **gestion en ligne** des votes et des candidats
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+C’est notre terrain de jeu pour expérimenter et progresser avec Flutter 🚀  
